@@ -5,7 +5,7 @@ begin
 section "Introduction"
 
 text \<open>
-Isabelle/HOL includes
+Isabelle/HOL includes:
 
 \<^item> A functional programming language
 \<^item> A system for interactively proving statements
